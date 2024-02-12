@@ -27,7 +27,7 @@ test: # test images (optional)
 
 # Classes
 nc: 5  # number of classes
-names: ['bus', 'bicycle', 'car', 'motorcycle', 'person']  # class names
+names: ['person', 'bicycle', 'car', 'bus', 'motorbike']  # class names
 # names: [ '__background__','person','car','bus','bicycle','motorbike', 'rider', 'train', 'truck']  # class names
 # nc: 6  # number of classes
 # names: [ '__background__', # always index 0
